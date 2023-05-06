@@ -1,4 +1,7 @@
-![logo](https://github.com/uptudev/interview/blob/readmes/logo_header.png?raw=true)
+<p align="center">
+  <img src="https://github.com/uptudev/interview/blob/readmes/logo_header.png?raw=true" alt="Logo" width="640">
+</p>
+
 
 This repository contains a collection of the best answers to popular interview questions in Rust. Each category features its own README which lists all questions within it and their prompts in a table.
 
