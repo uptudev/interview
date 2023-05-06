@@ -5,7 +5,6 @@ This repository contains a collection of the best answers to popular interview q
 ## Categories
 
 * [Arrays](./Arrays/README.md)
-* [Backtracking](./Backtracking/README.md)
 * [Bit Manipulation](<./Bit Manipulation/README.md>)
 * [Dynamic Programming](<./Dynamic Programming/README.md>)
 * [Graphs](./Graphs/README.md)
