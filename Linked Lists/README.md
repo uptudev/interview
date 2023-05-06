@@ -2,7 +2,7 @@
 
 This folder contains all interview questions having to do with linked lists.
 
-The current questions in the crate are listed below in alphabetic order:
+The current questions in the crate are listed below in alphabetical order:
 
 |Name|Prompt|
 |---|---|
