@@ -6,13 +6,13 @@ This repository contains a collection of the best answers to popular interview q
 
 * [Arrays](./Arrays/README.md)
 * [Backtracking](./Backtracking/README.md)
-* [Bit Manipulation](./Bit-Manipulation/README.md)
-* [Dynamic Programming](./Dynamic-Programming/README.md)
+* [Bit Manipulation](./Bit Manipulation/README.md)
+* [Dynamic Programming](./Dynamic Programming/README.md)
 * [Graphs](./Graphs/README.md)
-* [Linked Lists](./Linked-Lists/README.md)
-* [Math and Logic](./Math-and-Logic/README.md)
+* [Linked Lists](./Linked Lists/README.md)
+* [Math and Logic](./Math and Logic/README.md)
 * [Matrices](./Matrices/README.md)
-* [Sorting and Searching](./Sorting-and-Searching/README.md)
+* [Sorting and Searching](./Sorting and Searching/README.md)
 * [Strings](./Strings/README.md)
 * [Trees](./Trees/README.md)
 
